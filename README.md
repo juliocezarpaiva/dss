@@ -14,9 +14,13 @@ To run:
 ## Anotações
 
 Production Unit (1) --> (N) Pipeline
+
 Pipeline (1) --> (1) Manifold
+
 Manifold (1) --> (N) Spool
+
 Spool (1) --> (1) Weel
+
 
 Existem diferentes Models, usados para calcular o diâmetro mínimo de cada Pipeline. Cada Model possui uma equação.
 Cada empresa cliente pode usar mais de um Model para calcular o diametro do Pipeline.
