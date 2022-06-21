@@ -1,4 +1,4 @@
-# DEEP SEED SOLUTIONS’ 2022 RECRUITMENT PROGRAM
+# DEEP SEED SOLUTIONS
 
 To run the program, make sure to run the compiler with the tags "-lstdc++" and "-lm"
 
