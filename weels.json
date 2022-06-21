@@ -1,0 +1,33 @@
+/*
+Well #			Well Name				Well Diameter (inch)
+1 					P1							5.0
+2						P2							5.5
+3						P3							6.0
+4						P4							5.6
+5						P5							5.7	
+*/
+
+{
+	"weels" : {
+		"1": {
+			"name": "P1",
+			"diameter": 5.0,
+		},
+		"2": {
+			"name": "P2",
+			"diameter": 5.5,
+		},
+		"3": {
+			"name": "P3",
+			"diameter": 6.0,
+		},
+		"4": {
+			"name": "P4",
+			"diameter": 5.6,
+		},
+		"5": {
+			"name": "P5",
+			"diameter": 5.7,
+		},
+	},
+}
